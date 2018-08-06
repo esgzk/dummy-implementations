@@ -7,7 +7,7 @@ unsigned long int my_atoi(char *);
 unsigned long int _strlen(char *);
 signed long int _pow(int, int);
 
-int main(void)
+int main()
 {
     char str[MAX_LENGTH_STRING];
     unsigned char flag;
